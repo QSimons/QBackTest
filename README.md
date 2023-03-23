@@ -34,7 +34,7 @@ q.BackTest(code,start_date,end_date, g_corss_index,d_cross_index)
 #策略回测
 ```  
 3.回测结果可视化示例：
-![回测结果可视化示例](https://github.com/QBackTest/image/双均线-示例回测.png)
+![回测结果可视化示例](https://github.com/QSimons/QBackTest/tree/master/image/双均线-示例回测.png)
 ## 3.维护
 @QSimons
 ## 4.更新记录
